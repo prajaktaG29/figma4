@@ -1,0 +1,102 @@
+
+.navbar{
+    display: flex;
+}
+.search-section{
+    margin-left: 130px;
+     margin-top: 10px;
+}
+.homepage{
+    height: 100vh;
+    width: 80wh;
+    background-image: url(scandinavian-interior-mockup-wall-decal-background\ 1.png);
+    position: relative;margin-top: 30px;
+    display: flex;justify-content: center;align-items: center;
+    position: relative;
+    margin-right: 30px;
+}
+.box1{
+    height: 300px;
+    width: 550px;
+    background-color: #FFF3E3;margin-left: 400px;
+}
+.text{
+    margin-left: 20px;
+}
+.room-list{
+    display: flex;
+    justify-content: space-evenly;
+}
+.room-name{
+    display: flex; 
+    justify-content: space-evenly;
+}
+.Price-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+.room1{
+    background-image: url(Images.png);
+    height: 300px;
+    width: 250px;
+    object-fit:cover;
+}
+.room1-info{
+    height: 150px;
+    width: 250px;
+    background-color:#F4F5F7;margin-top: 245px;
+}
+.room2{
+    height: 445px;
+    width: 280px;
+    object-fit: cover;
+    background-image:linear-gradient(#3a3a3aa4,rgba(128, 128, 128, 0.358)),url(Featured\ Products.png);
+    object-fit: cover;
+    
+}
+.like-share-compare{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.room3{
+    background-image: url(Images\ \(1\).png);
+    height: 300px;
+    width: 250px;
+}
+.room3-info{
+    height: 150px;
+    width: 255px;
+    background-color:#F4F5F7;
+    margin-top: 245px;
+}
+.room4{
+    background-image: url(Images\ \(2\).png);
+    height: 300px;
+    width: 250px;
+}
+.room4-info{
+    height: 150px;
+    width: 250px;
+    background-color:#F4F5F7;
+    margin-top: 245px;
+}
+.show-more-button{
+    margin: auto;
+    margin-top: 110px;
+}
+.Explore-More{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.room-image{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.info{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
