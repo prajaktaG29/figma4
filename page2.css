@@ -6,6 +6,45 @@
     margin-left: 130px;
      margin-top: 10px;
 }
+.home{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-left: 370px;
+}
+.shop{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-left: 60px;
+}
+.about{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-left: 60px;
+}
+.contact{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    margin-left: 60px;
+}
+.line1{
+    color: black;
+    letter-spacing: 1px;
+}
+.line2{
+    color: #B88E2F;
+     font-family: sans-serif;
+}
+.line3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+.buy-now{
+    background-color: #B88E2F;
+    width: 140px;
+    padding: 20px;
+    border: none;
+    color: #FFF3E3;
+}
 .homepage{
     height: 100vh;
     width: 80wh;
@@ -18,10 +57,27 @@
 .box1{
     height: 300px;
     width: 550px;
-    background-color: #FFF3E3;margin-left: 400px;
+    background-color: #FFF3E3;
+    margin-left: 400px;
 }
 .text{
     margin-left: 20px;
+}
+.C2{
+    height: 100vh;
+    width: 100wh;
+}
+.heading{
+    color: #333333;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-left: 600px;
+}
+.heading2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #666666;
+    margin-left: 500px;
 }
 .room-list{
     display: flex;
@@ -30,6 +86,35 @@
 .room-name{
     display: flex; 
     justify-content: space-evenly;
+}
+.name1{
+    font-size: 20px;
+    color: #333333;
+}
+.name2{
+    font-size: 20px;
+    color: #333333;
+}
+.name3{
+    font-size: 20px;
+    color: #333333;
+}
+.C3{
+    height: 100vh;
+    width: 100wh;
+}
+.title{
+    font-family: sans-serif;color: #3A3A3A;
+    font-size: 40px;
+    margin-left: 600px;
+}
+.l1{
+    color: #3A3A3A;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.l2{
+    color: #898989;
 }
 .Price-section{
     display: flex;
@@ -54,6 +139,14 @@
     object-fit: cover;
     
 }
+.atc{
+    color: #B88E2F;background-color: aliceblue;border: none;
+    padding: 20px;
+    width:160px;
+    font-family: sans-serif;
+    margin-top: 125px;
+    margin-left: 60px;
+}
 .like-share-compare{
     display: flex;
     margin-top: 30px;
@@ -63,6 +156,14 @@
     background-image: url(Images\ \(1\).png);
     height: 300px;
     width: 250px;
+}
+.three1{
+    color: #3A3A3A;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.three2{
+    color: #898989;
 }
 .room3-info{
     height: 150px;
@@ -75,15 +176,35 @@
     height: 300px;
     width: 250px;
 }
+.four1{
+    color: #3A3A3A;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.four2{
+    color: #898989;
+}
 .room4-info{
     height: 150px;
     width: 250px;
     background-color:#F4F5F7;
     margin-top: 245px;
 }
+.show-more{
+    color: #B88E2F;
+    border-color: #B88E2F;
+    padding: 20px;
+    width: 190px;
+    margin-left: 680px;
+}
 .show-more-button{
     margin: auto;
     margin-top: 110px;
+}
+.C4{
+    height: 100vh;
+    width: 100wh;
+    background-color: #FCF8F3;
 }
 .Explore-More{
     display: flex;
@@ -91,8 +212,67 @@
     align-items: center;
     justify-content: space-evenly;
 }
+.boxtext{
+    font-family: fantasy;
+    font-size: 30px;
+    letter-spacing: 1px;
+    color: #3A3A3A;
+}
+.t1{
+    color: #616161;
+    font-family: sans-serif;
+}
+.ex2{
+    color: #F4F5F7;
+    background-color: #B88E2F;
+    border: none;
+    padding: 20px;
+}
 .room-image{
     margin-top: 50px;
+    margin-left: 50px;
+}
+.C5{
+    height: 100vh;
+    width: 100wh;
+}
+.University{
+    color: #9F9F9F;
+    margin-top: 30px;
+}
+.links{
+    color: #9F9F9F;
+}
+.home2{
+    margin-top: 20px;
+}
+.shop2{
+    margin-top: 20px;
+}
+.about2{
+    margin-top: 20px;
+}
+.contact2{
+    margin-top: 20px;
+}
+.help{
+    color: #9F9F9F;
+}
+.Payment1{
+    margin-top: 20px;
+}
+.return{
+    margin-top: 20px;
+}
+.Policies{
+    margin-top: 20px;
+}
+.letter{
+    color: #9F9F9F;
+}
+.furnio{
+    font-size: 18px;
+    font-family: sans-serif;
     margin-left: 50px;
 }
 .info{
